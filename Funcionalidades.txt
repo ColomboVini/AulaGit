@@ -1,0 +1,12 @@
+*Gerencia de Configuracao de Software: Documentacao.. 
+
+*Controle de Versao
+-Ferramentas alem do GIT: subversion, Mercurial, CVS, Bazzar
+
+*GitHub: repositorio ou servidor que opera Git.
+ 
+*Install: 
+sudo apt-get install git = Linux
+
+*https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+git help
