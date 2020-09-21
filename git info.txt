@@ -4,3 +4,4 @@ git add .
 git commit -m "comentario"
 git pull
 git log
+git clone <URL>
