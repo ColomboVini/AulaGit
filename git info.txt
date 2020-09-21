@@ -3,3 +3,4 @@ git push
 git add .
 git commit -m "comentario"
 git pull
+git log
