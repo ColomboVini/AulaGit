@@ -5,3 +5,4 @@ git commit -m "comentario"
 git pull
 git log
 git clone <URL>
+git checkout <commit> <file>
