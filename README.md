@@ -1,5 +1,5 @@
 # Aulas Git
 
-![./git.png](Git)
+![GIT](git.png)
 
-Esse repositorio foi criado para testar e aprender as funcionalidades do Git
+Esse repositorio foi criado para testar e aprender as funcionalidades do Git e Github.
