@@ -8,3 +8,5 @@ git clone <URL>
 git checkout <commit> <file> // sair: git checkout master
 git merge <branch>
 Trocar branch: git checkout <branch>
+git tag --> lista versao
+git tag <versao> --> Cria
