@@ -7,3 +7,4 @@ git log
 git clone <URL>
 git checkout <commit> <file> // sair: git checkout master
 git merge <branch>
+Trocar branch: git checkout <branch>

@@ -13,3 +13,5 @@ git help
 code . = VSC
 
 git clone <URL>
+Cria: git branch <nome nova branch>
+Excluir: git branch -d <nome branch>
